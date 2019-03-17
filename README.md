@@ -1,4 +1,6 @@
-# vue-pwa-starter
+# Vue.js PWA Starter
+
+A starter project created using Vue CLI 3; babel, pwa, router, vuex, scss. Offline support for the service worker and global scss variables have been added.
 
 ## Project setup
 ```
